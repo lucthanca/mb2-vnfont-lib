@@ -1,0 +1,24 @@
+F:\MDData\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.dll
+F:\MDData\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.pdb
+F:\MDData\VN.NewFont\obj\Debug\VN.NewFont.csproj.CoreCompileInputs.cache
+F:\MDData\VN.NewFont\obj\Debug\VN.NewFont.csproj.CopyComplete
+F:\MDData\VN.NewFont\obj\Debug\VN.NewFont.dll
+F:\MDData\VN.NewFont\obj\Debug\VN.NewFont.pdb
+F:\Temp_Game\Mount and Blade II Bannerlord-Early Access\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client\VN.NewFont.dll
+F:\Temp_Game\Mount and Blade II Bannerlord-Early Access\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client\VN.NewFont.pdb
+F:\Temp_Game\Mount and Blade II Bannerlord-Early Access\Mount & Blade II Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.dll
+F:\Temp_Game\Mount and Blade II Bannerlord-Early Access\Mount & Blade II Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.pdb
+F:\Temp_Game\Mount & Blade II Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.dll
+F:\Temp_Game\Mount & Blade II Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.pdb
+F:\MDData\VN.NewFont\obj\Debug\VN.NewFont.csprojAssemblyReference.cache
+F:\MDData\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.dll
+F:\MDData\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.pdb
+C:\game\Mount And Blade Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.dll
+C:\game\Mount And Blade Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.pdb
+D:\mb\VN.NewFont\obj\Debug\VN.NewFont.csprojAssemblyReference.cache
+D:\mb\VN.NewFont\obj\Debug\VN.NewFont.csproj.CoreCompileInputs.cache
+D:\mb\VN.NewFont\obj\Debug\VN.NewFont.csproj.CopyComplete
+D:\mb\VN.NewFont\obj\Debug\VN.NewFont.dll
+D:\mb\VN.NewFont\obj\Debug\VN.NewFont.pdb
+C:\game\Mount And Blade - Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.dll
+C:\game\Mount And Blade - Bannerlord\Modules\VietnamLanguage\bin\Win64_Shipping_Client\VN.NewFont.pdb
